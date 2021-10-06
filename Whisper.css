@@ -1,0 +1,25 @@
+#prologo {
+    text-align: center;
+    border-style: groove;
+    border-radius: 10px;
+}
+#opção1 {
+    text-align: center;
+    border-radius: 10px;
+}
+#botão {
+    border-style: groove;
+    background-color: green;
+}
+#jg {
+    height: 160px;
+    border-style: groove;
+    background-image: url("pg.png");    
+    background-size: 100%;
+}
+#ba {
+    height: 160px;
+    border-style: groove;
+    background-image: url("ba.png");    
+    background-size: 100%;
+}
